@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://sooditk.github.io/csb-coxiy/static/css/main.aea0751a.chunk.css",
+    "main.js": "https://sooditk.github.io/csb-coxiy/static/js/main.514157fd.chunk.js",
+    "main.js.map": "https://sooditk.github.io/csb-coxiy/static/js/main.514157fd.chunk.js.map",
+    "runtime-main.js": "https://sooditk.github.io/csb-coxiy/static/js/runtime-main.a5334742.js",
+    "runtime-main.js.map": "https://sooditk.github.io/csb-coxiy/static/js/runtime-main.a5334742.js.map",
+    "static/css/2.077c04e9.chunk.css": "https://sooditk.github.io/csb-coxiy/static/css/2.077c04e9.chunk.css",
+    "static/js/2.2a31aa5f.chunk.js": "https://sooditk.github.io/csb-coxiy/static/js/2.2a31aa5f.chunk.js",
+    "static/js/2.2a31aa5f.chunk.js.map": "https://sooditk.github.io/csb-coxiy/static/js/2.2a31aa5f.chunk.js.map",
+    "index.html": "https://sooditk.github.io/csb-coxiy/index.html",
+    "static/css/2.077c04e9.chunk.css.map": "https://sooditk.github.io/csb-coxiy/static/css/2.077c04e9.chunk.css.map",
+    "static/css/main.aea0751a.chunk.css.map": "https://sooditk.github.io/csb-coxiy/static/css/main.aea0751a.chunk.css.map",
+    "static/js/2.2a31aa5f.chunk.js.LICENSE.txt": "https://sooditk.github.io/csb-coxiy/static/js/2.2a31aa5f.chunk.js.LICENSE.txt",
+    "static/media/blob.1f93dcdb.svg": "https://sooditk.github.io/csb-coxiy/static/media/blob.1f93dcdb.svg",
+    "static/media/car-logo.d5bc7cc2.png": "https://sooditk.github.io/csb-coxiy/static/media/car-logo.d5bc7cc2.png",
+    "static/media/car-yellow.4acd650d.png": "https://sooditk.github.io/csb-coxiy/static/media/car-yellow.4acd650d.png",
+    "static/media/land-rover.3418dfaf.png": "https://sooditk.github.io/csb-coxiy/static/media/land-rover.3418dfaf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5334742.js",
+    "static/css/2.077c04e9.chunk.css",
+    "static/js/2.2a31aa5f.chunk.js",
+    "static/css/main.aea0751a.chunk.css",
+    "static/js/main.514157fd.chunk.js"
+  ]
+}
